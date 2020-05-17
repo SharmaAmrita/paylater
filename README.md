@@ -1,6 +1,10 @@
 # paylater
-A command line interface for pay later servcie
+A command line interface for pay later service
+
 clone the project
-cd <project directory>
+
+cd project directory
+
 npm install -g .
+
 run the commands mentioned
